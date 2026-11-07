@@ -28,22 +28,33 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -e ".[lxml,yaml]"
-          pip install curl_cffi || echo "curl_cffi skipped, KT may fail"
+          pip install curl_cffi || echo "curl_cffi skipped"
 
       - name: Grab EPG
         run: python -m epg2xml run --xmlfile guide-kr.xml --parallel
+
+      - name: Debug
+        run: |
+          ls -lh guide-kr.xml
+          echo "节目条数: $(grep -c '<programme' guide-kr.xml)"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: epg-xml
           path: guide-kr.xml
+          if-no-files-found: error
 
       - name: Publish to Release
-        if: github.event_name == 'schedule'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: epg-latest
           files: guide-kr.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit back to repo
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update guide-kr.xml"
+          file_pattern: "guide-kr.xml"
