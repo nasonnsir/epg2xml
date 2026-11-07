@@ -1,3 +1,22 @@
+.DS_Store
+*/.DS_Store
+.vercel/
+.vercel
+.env
+.env*
+.env.local
+.env.*.local
+.wrangler/
+.dev.vars
+.dev.vars*
+node_modules/
+.next/
+dist/
+build/
+out/
+*.tsbuildinfo
+dev-config.js
+jiba/
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
