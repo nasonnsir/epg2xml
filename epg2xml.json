@@ -193,7 +193,6 @@
         { "Name": "DealSite경제TV", "No": "159", "ServiceId": "454", "Category": "뉴스/경제" },
         { "Name": "CNN International", "No": "160", "ServiceId": "774", "Category": "뉴스/경제" },
         { "Name": "BBC News", "No": "162", "ServiceId": "778", "Category": "뉴스/경제" },
-        { "Name": "CGTN", "No": "163", "ServiceId": "771", "Category": "뉴스/경제" },
         { "Name": "Bloomberg TV", "No": "164", "ServiceId": "775", "Category": "뉴스/경제" },
         { "Name": "Channel News Asia", "No": "165", "ServiceId": "777", "Category": "뉴스/경제" },
         { "Name": "FOX News Channel", "No": "166", "ServiceId": "791", "Category": "뉴스/경제" },
@@ -232,7 +231,6 @@
         { "Name": "History", "No": "271", "ServiceId": "260", "Category": "라이프/정보" },
         { "Name": "BBC earth", "No": "272", "ServiceId": "472", "Category": "라이프/정보" },
         { "Name": "Smithsonian Channel", "No": "273", "ServiceId": "792", "Category": "라이프/정보" },
-        { "Name": "CCTV4", "No": "274", "ServiceId": "779", "Category": "라이프/정보" },
         { "Name": "NHK World Premium", "No": "275", "ServiceId": "772", "Category": "라이프/정보" },
         { "Name": "TV5Monde", "No": "276", "ServiceId": "780", "Category": "라이프/정보" },
         { "Name": "NHK WORLD JAPAN", "No": "277", "ServiceId": "783", "Category": "라이프/정보" },
@@ -258,14 +256,7 @@
         { "Name": "BBS 불교방송", "No": "296", "ServiceId": "722", "Category": "교육/공공/종교" },
         { "Name": "가톨릭평화방송", "No": "297", "ServiceId": "724", "Category": "교육/공공/종교" },
         { "Name": "STB 상생방송", "No": "298", "ServiceId": "278", "Category": "교육/공공/종교" },
-        { "Name": "원음방송", "No": "299", "ServiceId": "270", "Category": "교육/공공/종교" },
-        { "Name": "플레이보이TV", "No": "311", "ServiceId": "183", "Category": "성인(유료)" },
-        { "Name": "미드나잇", "No": "312", "ServiceId": "184", "Category": "성인(유료)" },
-        { "Name": "Viki", "No": "313", "ServiceId": "188", "Category": "성인(유료)" },
-        { "Name": "허니TV", "No": "314", "ServiceId": "196", "Category": "성인(유료)" },
-        { "Name": "핑크하우스", "No": "315", "ServiceId": "190", "Category": "성인(유료)" },
-        { "Name": "디자이어TV", "No": "316", "ServiceId": "200", "Category": "성인(유료)" },
-        { "Name": "비너스TV", "No": "317", "ServiceId": "201", "Category": "성인(유료)" }
+        { "Name": "원음방송", "No": "299", "ServiceId": "270", "Category": "교육/공공/종교" }
     ]
   },
   "DAUM": {
