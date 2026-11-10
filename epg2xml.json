@@ -82,6 +82,7 @@
         { "Name": "TVCHOSUN2", "No": "91", "ServiceId": "631", "Category": "연예/오락" },
         { "Name": "채널A플러스", "No": "101", "ServiceId": "891", "Category": "연예/오락" },
         { "Name": "TVCHOSUN3", "No": "109", "ServiceId": "867", "Category": "연예/오락" },
+        { "Name": "MBN플러스", "No": "98", "ServiceId": "892", "Category": "연예/오락" },
         { "Name": "ENA STORY", "No": "115", "ServiceId": "288", "Category": "연예/오락" },
         { "Name": "아이넷 TV", "No": "202", "ServiceId": "261", "Category": "연예/오락" },
         { "Name": "이벤트TV", "No": "203", "ServiceId": "262", "Category": "연예/오락" },
