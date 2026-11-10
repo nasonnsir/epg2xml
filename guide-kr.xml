@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="epg2xml v0.1.0.dev1+gc0fda5ec6">
+<tv generator-info-name="epg2xml v0.1.0.dev1+g1c58741b8">
   <channel id="14.sk">
     <display-name>SBS</display-name>
     <display-name>SK</display-name>
@@ -449,6 +449,13 @@
     <display-name>109</display-name>
     <display-name>109 TVCHOSUN3</display-name>
     <display-name>109 SK</display-name>
+  </channel>
+  <channel id="892.sk">
+    <display-name>MBN플러스</display-name>
+    <display-name>SK</display-name>
+    <display-name>98</display-name>
+    <display-name>98 MBN플러스</display-name>
+    <display-name>98 SK</display-name>
   </channel>
   <channel id="288.sk">
     <display-name>ENA STORY</display-name>
@@ -34287,6 +34294,460 @@
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
     <episode-num system="onscreen">125</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110010000 +0900" stop="20261110020000 +0900" channel="892.sk">
+    <title lang="ko">알토란 레시피 (213회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">213</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110020000 +0900" stop="20261110030000 +0900" channel="892.sk">
+    <title lang="ko">엄지의 제왕 (717회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">717</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110030000 +0900" stop="20261110040000 +0900" channel="892.sk">
+    <title lang="ko">MBN플러스 스페셜 &lt;경이로운 동물의 세계&gt; (4회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110040000 +0900" stop="20261110060000 +0900" channel="892.sk">
+    <title lang="ko">살아보고서 (5회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110060000 +0900" stop="20261110074000 +0900" channel="892.sk">
+    <title lang="ko">남의 집 귀한 가족 (5회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110074000 +0900" stop="20261110100000 +0900" channel="892.sk">
+    <title lang="ko">한 번쯤 이혼할 결심 (4회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110100000 +0900" stop="20261110112000 +0900" channel="892.sk">
+    <title lang="ko">김주하의 데이앤나잇 (5회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110112000 +0900" stop="20261110133000 +0900" channel="892.sk">
+    <title lang="ko">속풀이쇼 동치미 (345회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">345</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110133000 +0900" stop="20261110144000 +0900" channel="892.sk">
+    <title lang="ko">나는 자연인이다 (732회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">732</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110144000 +0900" stop="20261110160000 +0900" channel="892.sk">
+    <title lang="ko">휴먼다큐 사노라면 (756회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">756</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110160000 +0900" stop="20261110172000 +0900" channel="892.sk">
+    <title lang="ko">최불암의 이야기숲 어울림 (17회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">17</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110172000 +0900" stop="20261110184000 +0900" channel="892.sk">
+    <title lang="ko">휴먼다큐 사노라면 (398회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">398</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110184000 +0900" stop="20261110200000 +0900" channel="892.sk">
+    <title lang="ko">특종세상 (300회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">300</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110200000 +0900" stop="20261110211000 +0900" channel="892.sk">
+    <title lang="ko">특종세상 (764회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">764</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110211000 +0900" stop="20261110222000 +0900" channel="892.sk">
+    <title lang="ko">나는 자연인이다 (64회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">64</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261110222000 +0900" stop="20261111000000 +0900" channel="892.sk">
+    <title lang="ko">오지GO 아마존 of 아마존 (2회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111000000 +0900" stop="20261111014000 +0900" channel="892.sk">
+    <title lang="ko">모던 패밀리 (18회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">18</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111014000 +0900" stop="20261111024000 +0900" channel="892.sk">
+    <title lang="ko">불타는 THE SONG (177회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">177</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111024000 +0900" stop="20261111034000 +0900" channel="892.sk">
+    <title lang="ko">MBN플러스 스페셜 &lt;경이로운 동물의 세계&gt; (5회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111034000 +0900" stop="20261111044000 +0900" channel="892.sk">
+    <title lang="ko">엄지의 제왕 (717회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">717</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111044000 +0900" stop="20261111054000 +0900" channel="892.sk">
+    <title lang="ko">어영차 바다야 (35회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">35</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111054000 +0900" stop="20261111072000 +0900" channel="892.sk">
+    <title lang="ko">속풀이쇼 동치미 (724회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">724</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111072000 +0900" stop="20261111091000 +0900" channel="892.sk">
+    <title lang="ko">알토란 (256회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">256</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111091000 +0900" stop="20261111110000 +0900" channel="892.sk">
+    <title lang="ko">고딩엄빠 4 (3회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111110000 +0900" stop="20261111122000 +0900" channel="892.sk">
+    <title lang="ko">여행생활자 집시맨 (14회)</title>
+    <category lang="ko">라이프</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111122000 +0900" stop="20261111134000 +0900" channel="892.sk">
+    <title lang="ko">휴먼다큐 사노라면 (399회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">399</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111134000 +0900" stop="20261111145000 +0900" channel="892.sk">
+    <title lang="ko">나는 자연인이다 (733회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">733</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111145000 +0900" stop="20261111161000 +0900" channel="892.sk">
+    <title lang="ko">최불암의 이야기숲 어울림 (19회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">19</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111161000 +0900" stop="20261111181000 +0900" channel="892.sk">
+    <title lang="ko">전설의 사내 (17회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">17</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111181000 +0900" stop="20261111192000 +0900" channel="892.sk">
+    <title lang="ko">특종세상 (763회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">763</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111192000 +0900" stop="20261111203000 +0900" channel="892.sk">
+    <title lang="ko">휴먼다큐 사노라면 (763회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">763</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111203000 +0900" stop="20261111221000 +0900" channel="892.sk">
+    <title lang="ko">언포게터블 듀엣 2 (2회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111221000 +0900" stop="20261111234000 +0900" channel="892.sk">
+    <title lang="ko">기막힌 이야기 실제상황 (259회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">259</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111234000 +0900" stop="20261112012000 +0900" channel="892.sk">
+    <title lang="ko">전현무계획 4 (19회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">19</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112012000 +0900" stop="20261112022000 +0900" channel="892.sk">
+    <title lang="ko">한일톱텐쇼 플레이백 (7회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112022000 +0900" stop="20261112040000 +0900" channel="892.sk">
+    <title lang="ko">모던 패밀리 (18회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">18</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112040000 +0900" stop="20261112050000 +0900" channel="892.sk">
+    <title lang="ko">불타는 THE SONG (178회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">178</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112050000 +0900" stop="20261112060000 +0900" channel="892.sk">
+    <title lang="ko">어영차 바다야 (36회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">36</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112060000 +0900" stop="20261112074000 +0900" channel="892.sk">
+    <title lang="ko">알토란 (255회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">255</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112074000 +0900" stop="20261112095000 +0900" channel="892.sk">
+    <title lang="ko">속풀이쇼 동치미 (471회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">471</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112095000 +0900" stop="20261112113000 +0900" channel="892.sk">
+    <title lang="ko">디스이즈 현무로드 (7회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112113000 +0900" stop="20261112131000 +0900" channel="892.sk">
+    <title lang="ko">언포게터블 듀엣 2 (2회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112131000 +0900" stop="20261112154000 +0900" channel="892.sk">
+    <title lang="ko">트롯 파이터 (3회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112154000 +0900" stop="20261112170000 +0900" channel="892.sk">
+    <title lang="ko">최불암의 이야기숲 어울림 (24회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">24</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112170000 +0900" stop="20261112182000 +0900" channel="892.sk">
+    <title lang="ko">특종세상 (607회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">607</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112182000 +0900" stop="20261112194000 +0900" channel="892.sk">
+    <title lang="ko">휴먼다큐 사노라면 (757회)</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">757</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112194000 +0900" stop="20261112210000 +0900" channel="892.sk">
+    <title lang="ko">나는 자연인이다 (350회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">350</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112210000 +0900" stop="20261112224000 +0900" channel="892.sk">
+    <title lang="ko">속풀이쇼 동치미 (726회)</title>
+    <category lang="ko">예능</category>
+    <episode-num system="onscreen">726</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112224000 +0900" stop="20261113000000 +0900" channel="892.sk">
+    <title lang="ko">특종세상 (451회)</title>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="onscreen">451</episode-num>
     <previously-shown />
     <rating system="KR">
       <value>15세 이상 관람가</value>
